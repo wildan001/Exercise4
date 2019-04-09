@@ -1,0 +1,39 @@
+body{
+    background-color    : #944949;
+    font-weight         : bolder;
+}
+p{
+    font-size       :20px;
+
+}
+.layar{
+    width           : 410px;
+    padding         : 10px;
+    border-style    : solid;
+    border-radius   :10px;
+}
+.button {
+	width   : 100px;
+	height  : 40px;
+	background-color: #4CAF50;
+    border  : ridge;
+    color   : white;
+    padding : 10px;
+    font-size       : 16px;
+    border-radius   :10px;
+}   
+form{
+    text-align  : center;
+}
+input:hover{
+    color       :red;text-decoration:none;
+}
+.opr{
+	background-color: #555555;
+}
+.clr{
+	background-color: #f44336;
+}
+.hsl{
+	background-color: #008CBA;
+}
